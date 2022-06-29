@@ -1,0 +1,2 @@
+# Spring-Bean
+Bean attrribute
